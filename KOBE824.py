@@ -1,7 +1,7 @@
 # set up the variables (rate, initial_balance, target_balance)
 
 
-#initial variables,cosnstants
+#initial variables,constants
 
 
 #INITIAL_BALANCE = 800
@@ -32,5 +32,5 @@ for i in range(1,300):
     turtle.forward(270)
     turtle.left(94) 
     turtle.speed(10)
-    turtle.
+    turtle.pencolor(100)
     
